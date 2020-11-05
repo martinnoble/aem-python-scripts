@@ -1,0 +1,5 @@
+/testrun.txt
+/output.txt
+*.pyc
+*.swp
+.idea
